@@ -19,7 +19,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">hey  friends👋</h1>
+<h1 data-importer="text" align="center">and there friends👋</h1>
 
 ###
 
