@@ -41,7 +41,8 @@
 
 <p data-importer="text" align="left">Web Developer in Training | HTML • CSS • JavaScript • SQL</p>
 
-###
+### 
+<br>
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=Leandrox-codes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
