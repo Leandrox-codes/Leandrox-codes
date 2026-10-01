@@ -39,7 +39,7 @@
 
 ###
 
-<p data-importer="text" align="left">Desenvolvedor Web em Formação | HTML • CSS • JavaScript • SQL</p>
+<p data-importer="text" align="left">Web Developer in Training | HTML • CSS • JavaScript • SQL</p>
 
 ###
 
